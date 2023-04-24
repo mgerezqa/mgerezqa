@@ -5,4 +5,4 @@ Actualmente estoy realizando practicas como tester freelance y fortaleciendo mis
 
 ## Skills:
 
-![Java](https://img.shields.io/badge/Selenium-#43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)</br>
+![Java](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)</br>
