@@ -28,7 +28,6 @@ Actualmente estoy realizando practicas como tester freelance y fortaleciendo mis
    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/mgerez11)
    
 
-
-
 <!-- Los iconos se obtienen de https://simpleicons.org/ -->
 <!-- Para generar la plantilla ver la siguiente pag: https://shields.io/-->
+<!-- Para el futuro: crear banners para linkear los proyectos de testing: manual,automation y bdd -->
