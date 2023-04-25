@@ -9,11 +9,12 @@ Actualmente estoy realizando practicas como tester freelance y fortaleciendo mis
   ![Testing Manual](https://img.shields.io/badge/testing_manual-000000?style=for-the-badge&logo=testing_manual&logoColor=lightgrey&labelColor=101010)
 
 ## Tools
-  ### Lenguages:
+  ### Technologies:
   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
   ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)
+  
   ### Automation:
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)
   ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=lightgrey&labelColor=101010)
