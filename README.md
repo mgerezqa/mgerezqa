@@ -3,6 +3,9 @@
 
 Actualmente estoy realizando practicas como tester freelance y fortaleciendo mis habilidades técnicas en testing.
 
+## CodeWars
+![Coding](https://www.codewars.com/users/mgerezqa/badges/small)
+
 ## Testing Skills
   ![Automation](https://img.shields.io/badge/automation-000000?style=for-the-badge&logo=automation&logoColor=lightgrey&labelColor=101010)
   ![Testing Mobile](https://img.shields.io/badge/testing_mobile-000000?style=for-the-badge&logo=testing_mobile&logoColor=lightgrey&labelColor=101010)
@@ -21,8 +24,8 @@ Actualmente estoy realizando practicas como tester freelance y fortaleciendo mis
 
   ### APIs:
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)
-  ![SOAP](https://img.shields.io/badge/Soap-43B02A?style=for-the-badge&logo=soap&logoColor=white&labelColor=101010)
-  
+  ![SOAP](https://img.shields.io/badge/Soap-43B02A?style=for-the-badge&logo=soap&logoColor=white&labelColor=101010)  
+ 
 ## Find me at:
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mgerez)
    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/mgerez11)
