@@ -7,6 +7,10 @@ Actualmente estoy realizando practicas como tester freelance y fortaleciendo mis
 ![Coding](https://www.codewars.com/users/mgerezqa/badges/small)
 -->
 
+- 👨‍💻 All of my projects are available at [Portafolio](https://mgerezqa.github.io/)
+
+- 📫 How to reach me **mingerez@gmail.com**
+
 ## Testing Skills
   ![Automation](https://img.shields.io/badge/automation-000000?style=for-the-badge&logo=automation&logoColor=lightgrey&labelColor=101010)
   ![Testing Mobile](https://img.shields.io/badge/testing_mobile-000000?style=for-the-badge&logo=testing_mobile&logoColor=lightgrey&labelColor=101010)
