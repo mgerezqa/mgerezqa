@@ -2,9 +2,10 @@
 ### Soy un entusiasta del testing, la calidad y la automatización de pruebas
 
 Actualmente estoy realizando practicas como tester freelance y fortaleciendo mis habilidades técnicas en testing.
-
+<!--
 ## CodeWars
 ![Coding](https://www.codewars.com/users/mgerezqa/badges/small)
+-->
 
 ## Testing Skills
   ![Automation](https://img.shields.io/badge/automation-000000?style=for-the-badge&logo=automation&logoColor=lightgrey&labelColor=101010)
@@ -28,7 +29,6 @@ Actualmente estoy realizando practicas como tester freelance y fortaleciendo mis
  
 ## Find me at:
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mgerez)
-   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/mgerez11)
    
 
 <!-- Los iconos se obtienen de https://simpleicons.org/ -->
